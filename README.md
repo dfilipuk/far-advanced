@@ -76,8 +76,9 @@ Hotkey | Description | Required plugin
 `Ctrl + D` | Open same folder in opposite tab | SameFolder
 `Ctrl + M` | Open context menu | EMenu
 `Ctrl + Shift + C` | Compare folders | VisualCompare
-`Ctrl + Space` | Open current location in File Explorer | —
+`Ctrl + Space` | Open current folder in File Explorer | —
 `Ctrl + T` | Open new tab | PanelTabs
 `Ctrl + W` | Close active tab | PanelTabs
 `Shift + Enter` | Run in new ConEmu tab | —
+`Shift + Space` | Open current folder in Visual Studio Code | —
 `Shift + Tab` | Go to next tab | PanelTabs
