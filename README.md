@@ -30,6 +30,7 @@ Macros, settings, tips for Far Manager. Integration with [ConEmu](https://conemu
 - `F2` — user menu
 - `Ctrl + .` — start / stop recording macro
 - `!\!.!` — path to selected file
+- `F11 -> <Select plugin> -> F3` — plugin information (GUIDs, etc.)
 - `Far.exe /export settings.cfg` — export Far Manager settings into `settings.cfg`
 - `Far.exe /import settings.cfg` — import Far Manager settings from `settings.cfg`
 
