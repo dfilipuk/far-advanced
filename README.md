@@ -53,6 +53,7 @@ Macros, settings, tips for Far Manager. Integration with [ConEmu](https://conemu
 - ArcLite
 - EMenu
 - FarColorer
+- GitAutocomplete
 - Hexitor
 - MediaInfo
 - PanelTabs
@@ -74,6 +75,7 @@ Hotkey | Description | Required plugin
 `Alt + O` | Open file in HEX editor | Hexitor
 `Alt + S` | Open special characters overview | —
 `Ctrl + D` | Open same folder in opposite tab | SameFolder
+`Ctrl + G` | Substitute Git reference | GitAutocomplete
 `Ctrl + M` | Open context menu | EMenu
 `Ctrl + Shift + C` | Compare folders | VisualCompare
 `Ctrl + Space` | Open current folder in File Explorer | —
