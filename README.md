@@ -25,6 +25,7 @@ Macros, settings, tips for Far Manager. Integration with [ConEmu](https://conemu
 - `Alt + F1` — change drive in left panel
 - `Alt + F2` — change drive in right panel
 - `Ctrl + O` — show / hide panels
+- `Ctrl + P` — show / hide opposite panel
 - `Alt -> ...` — search in current window
 - `Ctrl + Fxxx` — order files in current window by name / size / etc.
 - `F11` — plugin commands window
