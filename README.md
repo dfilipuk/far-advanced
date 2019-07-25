@@ -84,6 +84,7 @@ Hotkey | Description | Required plugin
 `Ctrl + Space` | Open current folder in File Explorer | —
 `Ctrl + T` | Open new tab | PanelTabs
 `Ctrl + W` | Close active tab | PanelTabs
+`Ctrl + N` | Open new ConEmu tab with CMD | —
 `Shift + Enter` | Run in new ConEmu tab | —
 `Shift + Space` | Open current folder in Visual Studio Code | —
 `Shift + Tab` | Go to next tab | PanelTabs
