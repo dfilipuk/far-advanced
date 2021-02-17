@@ -22,16 +22,21 @@ Macros, settings, tips for Far Manager. Integration with [ConEmu](https://conemu
 
 ### Far
 
+- `F2` — user menu
+- `F3` — view file
+- `F4` — edit file
+- `F11` — plugin commands window
 - `Alt + F1` — change drive in left panel
 - `Alt + F2` — change drive in right panel
+- `Alt + F3` — view file in external viewer
+- `Alt + F4` — edit file in external editor
+- `Alt -> ...` — search in current window
 - `Ctrl + O` — show / hide panels
 - `Ctrl + P` — show / hide opposite panel
 - `Ctrl + Q` — quick view
-- `Alt -> ...` — search in current window
-- `Ctrl + Fxxx` — order files in current window by name / size / etc.
-- `F11` — plugin commands window
-- `F2` — user menu
 - `Ctrl + .` — start / stop recording macro
+- `Ctrl + Fxxx` — order files in current window by name / size / etc.
+- `Ctrl + UP/RIGHT/DOWN/LEFT` — change panel size
 - `!\!.!` — path to selected file
 - `F11 -> <Select plugin> -> F3` — plugin information (GUIDs, etc.)
 - `Far.exe /export settings.cfg` — export Far Manager settings into `settings.cfg`
