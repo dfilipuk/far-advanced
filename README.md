@@ -92,6 +92,8 @@ Hotkey | Description | Required plugin
 `Ctrl + N` | Open new ConEmu tab with CMD | —
 `Ctrl + Shift + N` | Open new ConEmu tab with PowerShell | —
 `Ctrl + Alt + N` | Open new ConEmu tab with GitBash | —
-`Shift + Enter` | Run in new ConEmu tab | —
+`Shift + Enter` | Run in new ConEmu tab with CMD | —
+`Ctrl + Enter` | Run in new ConEmu tab with PowerShell | —
+`Ctrl + Shift + Enter` | Run in new ConEmu tab with GitBash | —
 `Shift + Space` | Open current folder in Visual Studio Code | —
 `Shift + Tab` | Go to next tab | PanelTabs

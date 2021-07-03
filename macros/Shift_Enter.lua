@@ -1,5 +1,5 @@
 Macro {
-  description="Run in new ConEmu tab";
+  description="Run in new ConEmu tab with CMD";
   area="Shell"; key="ShiftEnter";
   flags="NotEmptyCommandLine";
   action = function()
